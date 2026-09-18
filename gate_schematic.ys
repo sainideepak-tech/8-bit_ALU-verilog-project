@@ -1,0 +1,3 @@
+read_verilog alu_gate.v
+hierarchy -top alu
+show -format dot -prefix gate_level

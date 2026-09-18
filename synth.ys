@@ -1,0 +1,8 @@
+read_verilog 8-bit_alu.v
+hierarchy -top alu
+proc
+opt
+techmap
+opt
+write_verilog -noattr alu_gate.v
+stat

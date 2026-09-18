@@ -1,3 +1,6 @@
 # simulation file
 sim
 wave.vcd
+gate_level.dot
+show.dot
+alu_gate.v
